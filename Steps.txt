@@ -14,3 +14,5 @@ dotnet sln add EtecVeiculos.Api/EtecVeiculos.Api.csproj
 dotnet new mvc -o EtecVeiculos.UI
 
 dotnet sln add EtecVeiculos.UI/EtecVeiculos.UI.csproj
+
+npx expo start --android  --> rodar no vs code com o cel no modo do desenvolvedor
